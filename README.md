@@ -1,7 +1,5 @@
 # React Animated Fully Responsive Website
-## Here is the Active link of the site 
 
-https://nikki7341.github.io/React-Website/
 
 ## What I've Done in this 
 - created Home page
